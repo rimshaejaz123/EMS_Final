@@ -73,11 +73,11 @@ Employees are provided with secure self-service access to:
    ```bash
    git clone https://github.com/your-username/Employee-Management-System.git
 
-Author
+## **Author**
 Rimsha Ejaz
 
 📧 Email: rimshaejaz3210@gmail.com
 🔗 LinkedIn: Rimsha Ejaz
 
-License
+## **License**
 This project is licensed under the MIT License.
