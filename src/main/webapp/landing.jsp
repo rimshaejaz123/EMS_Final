@@ -9,8 +9,7 @@
     <div class="landing-container">
         <img src="images/welcome_image.png" alt="Welcome Illustration" style="width: 400px;">
         
-        <h2 style="color: #4a90e2; margin-top:20px;">Welcome To Employee Management System</h2>
-        <p>Please Select Your Role to Proceed Further</p>
+        <h2 style="color: #4a90e2; margin-top:20px;">Welcome To Employee Management System PEOPLEEE
 
         <div class="role-btn-group">
             <a href="login.jsp" class="role-btn" style="background:#a020f0;">Employee</a>

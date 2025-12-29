@@ -11,7 +11,7 @@
             <img src="images/signup_image.png" alt="Signup Illustration">
         </div>
         <div class="form-box">
-            <h2>Create Account</h2>
+            <h2>SIGN UP</h2>
 
             <form action="auth" method="POST">
                 <input type="hidden" name="action" value="signup">
