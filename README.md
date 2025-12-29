@@ -1,36 +1,53 @@
 # Employees Management System (EMS) 🚀
 
-## **Project Overview**
-The **Employees Management System (EMS)** is a **full-stack Java-based web application** designed to streamline and automate **HR and employee management operations**.  
-It provides a **secure, role-based platform** for managing employees, attendance, salaries, departments, and recruitment processes.
+Salary Slip Generation
+<img width="782" height="536" alt="image" src="https://github.com/user-attachments/assets/3099e7dd-ccd5-4f37-8510-7e9ae80f7f2d" />
+
+Employee Dashboard
+<img width="1366" height="606" alt="image" src="https://github.com/user-attachments/assets/e542fa35-db15-41ff-8a8c-01cdd921290c" />
+
+
+## **Role-Based Security**
+- Authentication handled via **AuthServlet**
+- Automatic role detection and dashboard redirection
+- Unauthorized access is restricted
 
 ---
 
-## **System Modules**
-EMS is divided into **two role-based modules**:
+## **Technology Stack**
 
-### **HR Admin (Manager) Module**
-The HR Admin has full control over organizational operations, including:
+### **Frontend**
+- JSP, HTML5, CSS3
+- JavaScript
+- Chart.js
+- FontAwesome
 
-- **Dashboard** – Real-time statistics and visual charts  
-- **Employee Management** – Add, view, update, and delete employees  
-- **Department Management** – Create and manage departments  
-- **Attendance Monitoring** – Track organization-wide attendance  
-- **Leave Management** – Approve or reject employee leave requests  
-- **Payroll Management** – Manage salaries and payroll records  
-- **Salary Slips** – Auto-generated digital salary slips  
-- **Notice Board** – Publish company-wide announcements  
-- **Recruitment Pipeline** – Track candidates (Applied → Interviewed → Selected)  
-- **ID Card Generation** – Printable employee ID cards  
+### **Backend**
+- Java (Jakarta EE)
+- Servlets
+- JDBC
+- DAO Pattern
+- MVC Architecture
+
+### **Database**
+- MySQL
+- phpMyAdmin
 
 ---
 
-### **Employee (Staff) Module**
-Employees are provided with secure self-service access to:
+## **Installation & Setup**
+1. Start Apache & MySQL (XAMPP/WAMP)  
+2. Create database **ems_db**  
+3. Import SQL file  
+4. Clone repository:
+   ```bash
+   git clone https://github.com/your-username/Employee-Management-System.git
 
-- **Personal Dashboard** – Individual stats and HR notices  
-- **My Attendance** – View personal attendance records  
-- **Leave Application** – Apply for leave and track status  
-- **My Salary** – View salary history and download slips  
-- **My ID Card** – View or print digital ID card  
-- **Company Notices** – Read-only access to announcements  
+## **Author**
+Rimsha Ejaz
+
+📧 Email: rimshaejaz3210@gmail.com
+🔗 LinkedIn: Rimsha Ejaz
+
+## **License**
+This project is licensed under the MIT License.
