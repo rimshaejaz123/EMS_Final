@@ -1,4 +1,4 @@
-# Employees Management System (EMS) 🚀
+
 
 ## **Project Overview**
 The **Employees Management System (EMS)** is a **full-stack Java-based web application** designed to streamline and automate **HR and employee management operations**.  
